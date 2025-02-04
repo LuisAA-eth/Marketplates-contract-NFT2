@@ -1,0 +1,18 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entorno virtual de Python
+venv/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+
+# Archivos estáticos y bases de datos
+staticfiles/
+db.sqlite3
+
+# Node.js (si usas React u otra tecnología de frontend)
+node_modules/
